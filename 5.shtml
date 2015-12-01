@@ -1,0 +1,83 @@
+<HTML>
+<head>
+<meta http-equiv="content-type" content="text/shtml;charset=windows-1251"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="/images/ico.ico">
+ <link href="ssi/bootstrap.min.css" rel="stylesheet">
+ <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="ssi/css1.css"/>
+<title>Заголовок документа</title>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+</head>
+<body>
+<div class="container-fluid">
+<div id="header" class="row">
+        <div id="logo" class="col-md-3 col-lg-3 col-sm-3 col-xs-3"><div class="Box4"><img src="/images/molnia.jpg" class="img-responsive" alt="Электроэнергетика не игра, не нарушайте правила написанные кровью"></div></div>
+        <div id="header-content" class="col-md-9 col-lg-9 col-sm-9 col-xs-9"><div class="Box5"><h3><strong>Sergelektriks.kh.ua</strong> - это сайт на котором Вы найдете ответы на все имеющиеся вопросы, если нет ответа в перечне статей сайта, задай его, отправив на почту. У нас нет вопросов, без ответов.</h3></div></div>
+    </div>
+	 <div id="nav" class="row"><div class="col-md-12"><div class="Box5"><a href="http://sergelektriks.kh.ua/">Главная</a></div></div>
+	 </div>
+  <div class="row">
+    <div class="col-lg-3 col-md-3 col-sm-2 col-xs-2"><div class="Box1">
+	<ul class="nav nav-stacked" role="tablist">
+  <li role="presentation"><a href="/domashniy-elektrik/">Домашний электрик <span class="badge">3</span></a></li>
+  <li role="presentation"><a href="/osnovyi-elektrotehniki/">Основы электротехники <span class="badge">3</span></a></li>
+  <li role="presentation"><a href="/remont-mostovyih-kranov/">Ремонт мостовых кранов <span class="badge">4</span></a></li>
+   <li role="presentation"><a href="/tsehovoy-elektromonter/">В помощь цеховому электромонтеру<span class="badge">3</span></a></li>
+</ul>
+	</div>
+	<div class="Box1"><h4 align="center"><a href="mailto:sergaxil@qip.ru">Контакты:<br>sergaxil@qip.ru</a></h4></div>
+	</div>
+    <div class="col-lg-6 col-md-6 col-sm-8 col-xs-8"><div class="Box2"><div id="container_reclame"><div id ="reclame"><h3 align="center">Тут может быть Ваша реклама</h3></div></div></div><div class="Box2"><p>Текст</p></div>
+	</div>
+    <div class="col-lg-3 col-md-3 col-sm-2 col-xs-2"><div class="Box1"><p>Этот сайт создан в помощь электромонтерам, а также для людей пытающихся понять азы этой профессии.</p></div></div>
+  </div>
+	 <div class="row"><div id="footer" class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><div class="Box3"><h3>Последние добавление новых статей было произведено:</h3><font size="4">
+<em>22.08.2015 – была добавлена статья <a href="/osnovyi-elektrotehniki/zakon_kirhgofa.shtml">Закон Кирхгофа</a>.</em><br>
+<em>23.08.2015 – была добавлена статья <a href="/remont-mostovyih-kranov/puskovyie_soprotivleniya.shtml">Пусковые сопротивления</a>.</em><br>
+<em>24.08.2015 – была добавлена статья <a href="/tsehovoy-elektromonter/dvigatel_sborka_i_razborka.shtml">Двигатель. Сборка и разборка</a>.</em>
+</font</div></div>
+<div class="Box3"><div id="center_footer">©&nbsp; 2015 Сергей Малинин &nbsp;<a href="/work/">О работе</a></div><div id="indicator" align="right"><!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t17.18;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->&nbsp;&nbsp;&nbsp;<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter32222409 = new Ya.Metrika({
+                    id:32222409,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/32222409" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter --></div>
+</div>
+        </div>
+        </div>
+		</body>
+		</html>

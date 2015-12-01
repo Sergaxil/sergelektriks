@@ -1,0 +1,20 @@
+<!--#include virtual="/ssi/_meta1.txt" -->
+<!--#include virtual="/ssi/_meta2.txt" -->
+<!--#include virtual="/ssi/_meta3.txt" -->Нулевая блокировка</title>
+<meta name="description" content="Электротехника,электрик, Нулевая блокировка"/>
+<meta name="keywords" content="Нулевая блокировка, Электрика"/>
+</head>
+<!--#include virtual="/ssi/_header1.txt" --><!--#include virtual="/ssi/_header2.txt" --><!--#include virtual="/ssi/_header3.txt" --><!--#include virtual="/ssi/_header4.txt" --><!--#include virtual="/ssi/_header5.txt" --><!--#include virtual="/ssi/_header6.txt" --><!--#include virtual="/ssi/_header7.txt" -->remont-mostovyih-kranov<!--#include virtual="/ssi/_header8.txt" -->Ремонт мостовых кранов<!--#include virtual="/ssi/_header9.txt" --><!--#include virtual="/ssi/_header7.txt" -->nulevaya_blokirovka<!--#include virtual="/ssi/_header8.txt" -->Нулевая блокировка<!--#include virtual="/ssi/_header9.txt" -->
+<!--#include virtual="/ssi/_header_end.txt" -->
+  <!--#include virtual="/ssi/_leftmenu1.txt" -->
+  <!--#include virtual="/ssi/_leftmenu2.txt" -->Домашний электрик<!--#include virtual="/ssi/_leftmenu3.txt" -->
+ <!--#include virtual="/ssi/_leftmenu4.txt" --> Основы электротехники<!--#include virtual="/ssi/_leftmenu5.txt" -->
+  <!--#include virtual="/ssi/_leftmenu6.txt" -->Ремонт мостовых кранов<!--#include virtual="/ssi/_leftmenu7.txt" -->
+  <!--#include virtual="/ssi/_leftmenu8.txt" -->В помощь цеховому электромонтеру<!--#include virtual="/ssi/_leftmenu9.txt" -->
+<!--#include virtual="/ssi/_leftmenu10.txt" --><!--#include virtual="/ssi/_leftmenu11.txt" -->
+<!--#include virtual="/ssi/_rightmenu1.txt" --><p>Этот сайт создан в помощь электромонтерам, а также для людей пытающихся понять азы этой профессии.<!--#include virtual="/ssi/_rightmenu2.txt" -->
+   <!--#include virtual="/ssi/_content1.txt" --><!--#include virtual="/ssi/_content2.txt" --><!--#include virtual="/ssi/_content3.txt" --><!--#include virtual="/ssi/_content4.txt" -->Нулевая блокировка нужна для того, чтобы кран не могли угнать и при временном прекращении подачи напряжения, при его повторной подаче кран не поехал бы без машиниста. Нулевая блокировка включает в себя не только командоконтроллеры, которые когда находятся в нулевом положении нормально замкнуты и способствуют срабатыванию  при нажатии кнопки катушки главного контактора.  Но для того чтобы начать работу с краном, нужно проверить не только нулевую блокировку командоконтроллеров, но и проверить закрыты ли все двери и люки, так они тоже находятся в одной цепи как и аварийный выключатель. Ниже будут приведены примеры стандартных схем нулевых блокировок.</p>
+<img src="/images/kran_1.jpg" class="img-responsive">
+<p>Схема цепей управления защитных панелей: а — при управлении кулачковыми контроллерами; б — при управлении магнитными контроллерами; 1П—ЗП — предохранители; KB — кнопка «возврат»; КЛ — контакт люка; АВ - аварийный выключатель; Л — линейный контактор: МР1, МР2 — контакты максимальных реле; КВВ, КВН — конечные выключатели; ПП — переключатель проверки; K12 — нулевые контакты контроллеров.</p>
+<p>Ну а если по простому, то если не срабатывает главный контактор ПЗКБ, то либо на кран не подано напряжение, либо у Вас не закрыты плотно люк или дверь, или командоконтроллеры не выставлены в нулевое положение.<!--#include virtual="/ssi/_content5.txt" --><!--#include virtual="/ssi/_content6.txt" --><!--#include virtual="/ssi/_content7.txt" --><!--#include virtual="/ssi/_content8.txt" -->
+ <!--#include virtual="/ssi/_footer1.txt" --><!--#include virtual="/ssi/_footer2.txt" --><!--#include virtual="/ssi/_footer3.txt" --><!--#include virtual="/ssi/_footer4.txt" --><!--#include virtual="/ssi/_footer5.txt" --><!--#include virtual="/ssi/_footer6.txt" -->

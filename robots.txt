@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: sergelektriks.kh.ua
+Sitemap: http://sergelektriks.kh.ua/sitemap.xml

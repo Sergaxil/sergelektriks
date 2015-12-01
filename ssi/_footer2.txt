@@ -1,0 +1,5 @@
+<h2>ѕоследние добавление новых статей было произведено:</h2>
+<p class="lead">22.08.2015 Ц была добавлена стать€ <a href="/osnovyi-elektrotehniki/zakon_kirhgofa.shtml">«акон  ирхгофа</a>.</p><br>
+<p class="lead">23.08.2015 Ц была добавлена стать€ <a href="/remont-mostovyih-kranov/puskovyie_soprotivleniya.shtml">ѕусковые сопротивлени€</a>.</p><br>
+<p class="lead">24.08.2015 Ц была добавлена стать€ <a href="/tsehovoy-elektromonter/dvigatel_sborka_i_razborka.shtml">ƒвигатель. —борка и разборка</a>.</p>
+</div>

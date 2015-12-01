@@ -1,0 +1,313 @@
+body {
+	background:#d0e4fe;
+}
+
+H1 {color:#953; font-size:18pt; font-style:sans-serif;   line-height: 1px;}
+H1:first-letter {color:#FF6347;}
+H2 {color:#953; font-size:16pt; font-style:sans-serif;}
+H2:first-letter {color:#FF6347;}
+H3 {color:#953; font-size:14pt; font-style:sans-serif;text-indent: 20px;}
+H3:first-letter {color:#FF6347;}
+H4 {color:#953; font-size:11pt; font-style:sans-serif;}
+H4:first-letter {color:#FF6347;}
+#osnova {color:#953; font-size:14pt; font-style:sans-serif;}
+a:link {color:#FF6347;font-weight:900;text-decoration:none;font-size:11pt;}
+a:visited {color:#FF6347;font-weight:900;text-decoration:none;font-size:11pt;} 
+a:active {color:#f00;text-decoration:none;font-size:11pt;}
+a:hover {color:#f00;text-decoration:none;font-size:11pt;}
+P {color:#953; text-align:justify; text-indent:20px; font-size:10pt; font-family:sans-serif;} 
+P:first-letter {color:#f55; font-weight:900; font-size:14pt;}
+
+
+header {background:red;
+	
+}
+
+footer {
+        background:green;
+	margin: 10px 0 0 0;
+	padding: 10px 0 0 0;
+        clear:both;
+}
+
+.layout-header {
+	padding: 10px 0 0 0;
+        overflow: hidden;
+}
+.layout-footer {
+	padding: 10px 0 0 0;
+        overflow: hidden;
+}
+.layout {
+        overflow: hidden;
+}
+
+.leftmenu {
+        background:yellow;
+	padding: 10px 0 0 0;
+        float: left; 
+}
+
+.content {
+     background:blue;
+	padding: 10px 0 0 0;
+        float: left; 
+}
+
+.rightmenu {
+        background:red;
+	padding: 10px 0 0 0;
+        float: right; 
+}
+
+.Box1 {
+	padding: 10px;
+	border: 1px solid #f00;
+	position:relative;
+	border-radius: 30px;
+	box-shadow: 0 0 10px #0099FF;
+        margin: 10px 0 0 0;
+        background: #ECD5DE;
+
+}
+.Box2 {
+	padding: 10px;
+	border: 1px solid #f00;
+	position:relative;
+	border-radius: 30px;
+	box-shadow: 0 0 10px #0099FF;
+        margin: 10px 0 0 0;
+        background: #E0D2C7;
+}
+.Box3 { 
+	padding: 10px;
+	border: 1px solid #f00;
+        position:relative;
+	border-radius: 30px;
+	box-shadow: 0 0 10px #0099FF;
+        background: #ECD5DD;
+        margin: 10px 0 0 0;
+}
+
+.Box4 {
+        float: left;
+        width: 180;
+        padding: 10px;
+        border: 1px solid #f00;
+        border-radius: 30px;
+	box-shadow: 0 0 10px #0099FF;
+        background: #ECD5DD;
+        height: 150;
+        z-index: 2;
+        position: absolute;
+        overflow: hidden;
+}
+.Box5 {
+       margin-left: 215;
+       padding: 10px;
+       border: 1px solid #f00;
+       border-radius: 30px;
+       box-shadow: 0 0 10px #0099FF;
+       background: #ECD5DD;
+}
+.Box1.5 {
+       height: 150;}
+.layer1 {
+         position: relative;
+         left: -55px;
+         background: #ECD5DD;
+         z-index: 1;
+         top: -10px;
+}
+
+#mail {color:#953; font-size:2; font-style:sans-serif;}
+.ancorleft {color:#953; font-size:11pt; font-style:sans-serif;}
+.ancorleft:first-letter {color:#FF6347;}
+.list-group {
+  padding-left: 0;
+  margin-bottom: 20px;
+}
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: 10px 0px;
+  margin-bottom: -1px;
+  background-color: #ECD5DE;
+  border: 1px solid #ddd;
+}
+.list-group-item:first-child {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+.list-group-item:last-child {
+  margin-bottom: 0;
+  border-bottom-right-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
+a.list-group-item {
+  color: #FF6347;
+}
+a.list-group-item .list-group-item-heading {
+  color: #333;
+}
+a.list-group-item:hover {
+  color: #555;
+  text-decoration: none;
+  background-color: #FF6044;
+}
+a.list-group-item:focus {
+  color: #555;
+  text-decoration: none;
+  background-color: #953;
+}
+.badge {
+  display: inline-block;
+  min-width: 10px;
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  background-color: #FF6044;
+  border-radius: 10px;
+  float: right;
+}
+.counter{
+color:#FF6347;font-weight:900;
+float: left; width: 40%;
+font-size: 14px;
+}
+.road {
+  padding: 0px 35px;
+  margin-bottom: 10px;
+  background: #ECD5DD;
+}
+b:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: "/\00a0";
+}
+#container_reclame{
+height:100px;
+margin:25px;
+padding:10px;
+}
+#reclame {
+height: 50px;
+margin: 15px 35px;
+background-color: rgba(205,205,152,.2);
+}
+#indicator{
+margin-left: 60%;color:#FF6347;
+padding: 0px 10px;
+}
+a.group-item:hover {
+  color: #555;
+  text-decoration: none;
+  background-color: #FF6044;
+}
+a.group-item:focus {
+  color: #555;
+  text-decoration: none;
+  background-color: #953;
+}
+.adv {color: black;
+text-align: center;
+font-family: Arial;
+}
+#p10{text-indent:30px;font-family:sans-serif;font-size:11pt;color:#953;}
+#p10:first-letter{color:#953;font-weight:900;font-size:11pt;}
+#p10 {font-size:11pt;color:#953;}
+#center { text-align: center; }
+#center_footer {float: left; width: 20%;color:#FF6347;font-weight:900;}
+
+/* вид всей страницы  */
+.section {
+width: 100%; /* ширина 100% */
+min-width:620px; /* минимальная ширина */
+margin: 0 0 30px; /* отступ снизу*/
+}
+
+/* вид вкладочек */
+
+ul.tabs { /* вкладки  */
+    height: 28px; /* высота вкладки  */
+    line-height: 25px; /* высота строки во вкладке  */
+    list-style: none; /* отсутствие маркеров списка  */
+    border-bottom: 1px solid #DDD; /* рамочка  */
+    background: #FFF; /* цвет фона  */
+}
+.tabs li { /* текст внутри вкладок  */
+    float: left; /* выстраивать в линию по левому краю  */
+    display: inline; /* показывать как встроенный элемент  */
+    margin: 0 1px -1px 0; /* отступы  */
+    padding: 0 13px 1px;
+    color: #777; /* цвет текста  */
+    cursor: pointer; /* внешний вид курсора при наведении  */
+    background: #F9F9F9; /* фон  */
+    border: 1px solid #E4E4E4; /* рамочка  */
+    border-bottom: 1px solid #F9F9F9; /* рамочка снизу  */
+    position: relative; /* позиционирование  */
+}
+.tabs li:hover, .vertical .tabs li:hover { /* реакция при наведении курсора  */
+    color: #F70; /* изменение цвета  */
+    padding: 0 13px; /* отступ  */
+    background: #FFFFDF; /* изменение цвета фона  */
+    border: 1px solid #FFCA95; /* изменение цвета рамки  */
+}
+.tabs li.current { /* нажатая вкладка  */
+    color: #444;
+    background: #EFEFEF;
+    padding: 0 13px 2px;
+    border: 1px solid #D4D4D4;
+    border-bottom: 1px solid #EFEFEF;
+}
+
+/* вид блока комментариев */
+
+.box { /* блок скрытой вкладки */
+    display: none;
+    padding: 0 12px;
+}
+.box.visible { /* блок видимой вкладки */
+    display: block;
+}
+.comment-i {color: #CCC; /* цвет информации, даты */
+}
+
+/* вид комментариев */
+.comment-title{
+    margin-bottom: 20px;
+}
+.comment-head{ /* колонка информации о авторе */
+    width: 10%; /* ширина  */
+    margin-right: 5px; /* отступ права */
+    margin-left: 10px; /* отступ слева */
+    float: left; /* выравнивание в полосу */
+    text-align: center; /* ориентация текста по центру */
+    margin-bottom: 10px; /* отступы снизу */
+    padding-bottom: 5px;
+    }
+.comment-text{ /* оформление текста комментария */
+    word-wrap: break-word; /* включен перенос длинных слов */
+    margin-left: 5px;
+    float: left;
+    padding-left: 10px;
+    max-width: 80%;
+    min-width: 200px;
+    text-align: justify; /* выравнивание текста по ширине блока */
+    }
+.comment-area{ /* обнуление отступов от всего блока комменатриев */
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 0; /* Обнуляем значение полей */
+    }
+.comment-area li { /* постройка горизонтального списка вкладок */
+    display: inline; /* Отображать как встроенный элемент */
+    margin-right: 5px; /* Отступ слева */
+    padding: 3px; /* Поля вокруг текста */
+    }
+#mailto{color:#953; font-size:14pt; font-style:sans-serif;text-indent: 20px; text-decoration:underline;
+}

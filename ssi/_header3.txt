@@ -1,0 +1,1 @@
+<div id="header-content" class="col-md-9 col-lg-9 col-sm-12 col-xs-12"><div class="Box5">

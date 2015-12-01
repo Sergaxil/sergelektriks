@@ -1,0 +1,21 @@
+<HTML>
+<head>
+<meta http-equiv="content-type" content="text/shtml;charset=windows-1251"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="/images/ico.ico">
+ <link href="ssi/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="ssi/css.css"/>
+<title>Заголовок документа</title>
+<meta name="description" content=""/>
+<meta name="keywords" content=""/>
+</head>
+<body>
+  <div class="header""col-xs-12 col-sm-12 col-md-12 col-lg-12"><div class="layout"><div class="Box4"><div class="layer1"><img src="images/molnia.jpg" width="260" height="150" alt="Электроэнергетика не игра, не нарушайте правила написанные кровью"></div></div><div class="Box1.5"><div class="Box5"><h3><strong>Sergelektriks.kh.ua</strong> - это сайт на котором Вы найдете ответы на все имеющиеся вопросы, если нет ответа в перечне статей сайта, задай его, отправив на <a href="mailto:sergaxil@qip.ru">почту</a>. У нас нет вопросов, без ответов.</h3></div><div class="layout"><div class="Box5"><p>Электрик</p></div></div></div>
+  <div class="layout">
+   <div class="leftmenu""col-sm-2 col-md-3 col-lg-4"><div class="Box1"><a href="/domashniy-elektrik/" class="ancorleft">Домашний электрик</a></br></br><a href="osnovyi-elektrotehniki" class="ancorleft">Основы электротехники</a></br></br><a href="tsehovoy-elektromonter" class="ancorleft">В помощь цеховому электромонтеру</a></br></br><a href="remont-mostovyih-kranov" class="ancorleft">Ремонт мостовых кранов</a></div><div class="Box1"><h4 align="center"><a href="mailto:sergaxil@qip.ru">Контакты:<br>sergaxil@qip.ru</a></h4></div></div>
+   <div class="rightmenu""col-xs-12 col-sm-8 col-md-6 col-lg-4"><div class="Box1"><p> Этот сайт создан в помощь электромонтерам, а также для людей пытающихся понять азы этой профессии.</div></div>
+   <div class="content""col-sm-2 col-md-3 col-lg-4"> <div class="Box2"><p>Данный сайт создан человеком не имеющим огромных знанний в данной профессии, но пытающимся помочь тем кто хочет разобраться в тонкостях профессии, а также для людей, которые желают все в своем доме делать своими руками. Я не являюсь професором, но попытаюсь помочь каждому желающими в меру своих сил, так же как и мне помогали и помогают в постижении этой сложной профессии очень хорошие люди.</p></div><div class="Box2"><p>В разделе домашний электрик я попытаюсь Вам рассказать и объяснить те нюансы и проблемы, которые возникают при прокладки новой проводки дома, а также ремонта электрической аппаратуры, при ремонте и устранении неполадок в которой могут возникнуть проблемы.</p></div><div class="Box2"><p>В разделе "основы электротехники" я расскажу Вам о тех минимальных знаниях, которые будут Вам необходимы для ремонта. Тут я не буду рассписывать курс электротехники, а только расскажу о самом необходимом, о том, что действительно Вам понадобиться в практической деятельности исходя из моего пусть пока и не богатого, но опыта.</p></div><div class="Box2"><p>В разделе "В помощь цеховому электромонтеру" я расскажу Вам о том необходимом минимуме, который понадобиться Вам для начального этапа Вашей трудовой деятельности в качестве цехового электромонтера.</p></div><div class="Box2"><p>В разделе "Ремонт мостовых кранов" я Вам расскажу о том, что нужно знать для ремонта грузоподъемных механизмов. В этом разделе я не буду рассказывать Вам о монтаже кранов, а поведаю Вам только об азах, которые будут Вам необходимы для понимания, что такое вообще мостовые краны и какая аппаратура на нем может быть установлена и о том на что в первую очередь нужно обращать внимание при ремонте кранов.</p></div></div>
+   </div>
+  <div class="footer""col-xs-12 col-sm-12 col-md-12 col-lg-12"><div class="Box3"><h3 align="center">Последние добавление новых статей было произведено:</h3><br></div><div class="layout"><div class="Box3"> электромонтерам, а также для людей пытающихся понять азы этой профессии</div></div></div>
+ </body>
+</html>

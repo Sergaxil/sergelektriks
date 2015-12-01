@@ -1,0 +1,30 @@
+<!--#include virtual="/ssi/_meta1.txt" -->
+<!--#include virtual="/ssi/_meta2.txt" -->
+<!--#include virtual="/ssi/_meta3.txt" -->Закон Кирхгофа</title>
+<meta name="description" content="Электротехника,электрик, Закон Кирхгофа"/>
+<meta name="keywords" content="Закон Кирхгофа, Электрика"/>
+</head>
+<!--#include virtual="/ssi/_header1.txt" --><!--#include virtual="/ssi/_header2.txt" --><!--#include virtual="/ssi/_header3.txt" --><!--#include virtual="/ssi/_header4.txt" --><!--#include virtual="/ssi/_header5.txt" --><!--#include virtual="/ssi/_header6.txt" --><!--#include virtual="/ssi/_header7.txt" -->osnovyi-elektrotehniki<!--#include virtual="/ssi/_header8.txt" -->Основы электротехники<!--#include virtual="/ssi/_header9.txt" --><!--#include virtual="/ssi/_header7.txt" -->zakon_kirhgofa<!--#include virtual="/ssi/_header8.txt" -->Закон Кирхгофа<!--#include virtual="/ssi/_header9.txt" -->
+<!--#include virtual="/ssi/_header_end.txt" -->
+  <!--#include virtual="/ssi/_leftmenu1.txt" -->
+  <!--#include virtual="/ssi/_leftmenu2.txt" -->Домашний электрик<!--#include virtual="/ssi/_leftmenu3.txt" -->
+ <!--#include virtual="/ssi/_leftmenu4.txt" --> Основы электротехники<!--#include virtual="/ssi/_leftmenu5.txt" -->
+  <!--#include virtual="/ssi/_leftmenu6.txt" -->Ремонт мостовых кранов<!--#include virtual="/ssi/_leftmenu7.txt" -->
+  <!--#include virtual="/ssi/_leftmenu8.txt" -->В помощь цеховому электромонтеру<!--#include virtual="/ssi/_leftmenu9.txt" -->
+<!--#include virtual="/ssi/_leftmenu10.txt" --><!--#include virtual="/ssi/_leftmenu11.txt" -->
+<!--#include virtual="/ssi/_rightmenu1.txt" --><p>Этот сайт создан в помощь электромонтерам, а также для людей пытающихся понять азы этой профессии.<!--#include virtual="/ssi/_rightmenu2.txt" -->
+   <!--#include virtual="/ssi/_content1.txt" --><!--#include virtual="/ssi/_content2.txt" --><!--#include virtual="/ssi/_content3.txt" --><!--#include virtual="/ssi/_content4.txt" -->Что такое законы Кирхгофа – это правила, которые позволят нам Высчитывать любые цепи электрического тока. Поэтому перейдем сразу непосредственно к описание и разъяснению данных законов, чтобы стало понятно, что без них обойтись было бы крайне сложно.</p>
+<p>Первый закон Кирхгофа:  алгебраическая сумма токов входящих в узел, равна сумме токов выходящих из узла.</p><br>
+<img src="/images/kirhgof1.jpg" class="img-responsive">
+<p>Второй закон Кирхгофа:  В замкнутом контуре электрической цепи сумма всех эдс равна сумме падения напряжения в сопротивлениях того же контура.
+	При последовательном включении в цепь какого-то количества источников энергии с различным направлением эдс, общая должна быть равна сумме эдс всех источников в цепи.<p>
+
+<p>Складывая эдс одного направления знаком получаем, как и в математике, знак “плюс”, а эдс противоположного направления - со знаком “минус”.</p><br>
+<img src="/images/kirhgof2.jpg" class="img-responsive"><br><br>
+<img src="/images/kirhgof3.jpg" class="img-responsive"><br><br>
+<img src="/images/kirhgof4.jpg" class="img-responsive"><br><br>
+<img src="/images/kirhgof5.jpg" class="img-responsive"><br>
+
+<p>В нашем случае, при встречном включении, положения щупов пришлись на противоположную полярность источника большего напряжения, поэтому на приборе отрицательный знак.</p>
+<p>Используя данные законы и закон Ома Вы сможете рассчитать практически все электрические цепи, во всяком случае, они Вам точно понадобятся.<!--#include virtual="/ssi/_content5.txt" --><!--#include virtual="/ssi/_content6.txt" --><!--#include virtual="/ssi/_content7.txt" --><!--#include virtual="/ssi/_content8.txt" -->
+ <!--#include virtual="/ssi/_footer1.txt" --><!--#include virtual="/ssi/_footer2.txt" --><!--#include virtual="/ssi/_footer3.txt" --><!--#include virtual="/ssi/_footer4.txt" --><!--#include virtual="/ssi/_footer5.txt" --><!--#include virtual="/ssi/_footer6.txt" -->

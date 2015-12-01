@@ -1,0 +1,1 @@
+<li><a href="/osnovyi-elektrotehniki/" class="navbar-brand">

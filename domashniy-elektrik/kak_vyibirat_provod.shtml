@@ -1,0 +1,45 @@
+<!--#include virtual="/ssi/_meta1.txt" -->
+<!--#include virtual="/ssi/_meta2.txt" -->
+<!--#include virtual="/ssi/_meta3.txt" -->Как выбирать провод</title>
+<meta name="description" content="Электротехника,электрик, Как выбирать провод"/>
+<meta name="keywords" content="Как выбирать провод, Электрика"/>
+</head>
+<!--#include virtual="/ssi/_header1.txt" --><!--#include virtual="/ssi/_header2.txt" --><!--#include virtual="/ssi/_header3.txt" --><!--#include virtual="/ssi/_header4.txt" --><!--#include virtual="/ssi/_header5.txt" --><!--#include virtual="/ssi/_header6.txt" --><!--#include virtual="/ssi/_header7.txt" -->domashniy-elektrik<!--#include virtual="/ssi/_header8.txt" -->Домашний электрик<!--#include virtual="/ssi/_header9.txt" --><!--#include virtual="/ssi/_header7.txt" -->kak_vyibirat_provod<!--#include virtual="/ssi/_header8.txt" -->Как выбирать провод<!--#include virtual="/ssi/_header9.txt" -->
+<!--#include virtual="/ssi/_header_end.txt" -->
+  <!--#include virtual="/ssi/_leftmenu1.txt" -->
+  <!--#include virtual="/ssi/_leftmenu2.txt" -->Домашний электрик<!--#include virtual="/ssi/_leftmenu3.txt" -->
+ <!--#include virtual="/ssi/_leftmenu4.txt" --> Основы электротехники<!--#include virtual="/ssi/_leftmenu5.txt" -->
+  <!--#include virtual="/ssi/_leftmenu6.txt" -->Ремонт мостовых кранов<!--#include virtual="/ssi/_leftmenu7.txt" -->
+  <!--#include virtual="/ssi/_leftmenu8.txt" -->В помощь цеховому электромонтеру<!--#include virtual="/ssi/_leftmenu9.txt" -->
+<!--#include virtual="/ssi/_leftmenu10.txt" --><!--#include virtual="/ssi/_leftmenu11.txt" -->
+<!--#include virtual="/ssi/_rightmenu1.txt" --><p>Этот сайт создан в помощь электромонтерам, а также для людей пытающихся понять азы этой профессии.<!--#include virtual="/ssi/_rightmenu2.txt" -->
+   <!--#include virtual="/ssi/_content1.txt" --><!--#include virtual="/ssi/_content2.txt" --><!--#include virtual="/ssi/_content3.txt" --><!--#include virtual="/ssi/_content4.txt" -->Как  Вы знаете, и очень часто слышите из телевизора, у людей случаются  пожары из-за коротких замыканий. В основном эти короткие замыкания (КЗ), случаются из-за старой проводки, которая уже не выдерживает те токи, которые через эту цепь пропускаются, а также из-за защиты от КЗ этой цепи, которая вовремя не срабатывает. Сейчас мы поговорим немного о другом, а к защитам  от КЗ и правилам прокладки проводки мы вернемся позже.</p>
+<p>В данной статье мы рассмотрим такой же не маловажный аспект, как выбор сечения провода для бытовых приборов, а также для прокладки проводки и всех аспектов вашей повседневной жизни, связанных с электрическим током.
+Все Ваши электроприборы имеют определенную мощность, при прокладке проводке также необходимо примерно рассчитывать мощности тех электроприборов, которые Вы собираетесь запитать данным проводом, и используя не хитрую формулу можно рассчитать ток, который потребляет тот или иной прибор.</p>
+<p>Формула мощности:   P=U*I , - где P- это мощность вашего прибора, Вт; U – напряжение сети, В; I – ток, А;   Из этой формулы следует, что дабы найти ток, который потребляет этот электроприбор нужно составить пропорцию, как это делали в 5 классе, и вывести формулу тока: I=P/U; и по данной формуле рассчитываем все электроприборы однофазной сети.</p>
+<p>Пример:  Электрический чайник имеет мощность 2200 Вт. Найдем ток, который потребляет данный чайник.</p>
+<p>Решение: I=2200 Вт/220 В = 10 А</p>
+<p>Вот так и находим ток потребляемый электроприборами, мощность делим на напряжение сети.<p>
+<p>Исходя из данных результатов расчетов, теперь нужно выбрать сечение провода, для этого ниже будет представлена таблица выбора сечения провода в зависимости от тока и материала его производства.</p>
+<h1>Таблица выбора сечения кабеля при прокладке проводов:</h1>
+<div class="table-responsive">
+  <table class="table"cellpadding=5 border=1>
+<TR><TD>&nbsp;</TD><TD colSpan=6>Проложенные открыто</TD><TD colSpan=6>Проложенные в трубе</TD></TR>
+<TR><TD>Сеч.</TD><TD colSpan=3>Медь</TD><TD colSpan=3>Алюминий</TD><TD colSpan=3>Медь</TD><TD colSpan=3>Алюминий</TD></TR>
+<TR><TD>каб.,</TD><TD>Ток</TD><TD colSpan=2>W, кВт</TD><TD>Ток</TD><TD colSpan=2>W, кВт</TD><TD>Ток</TD><TD colSpan=2>W, кВт</TD><TD>Ток</TD><TD colSpan=2>W, кВт</TD></TR>
+<TR><TD>мм<SUP>2</SUP></TD><TD>А</TD><TD>220в</TD><TD>380в</TD><TD>А</TD><TD>220в</TD><TD>380в</TD><TD>А</TD><TD>220в</TD><TD>380в</TD><TD>А</TD><TD>220в</TD><TD>380в</TD></TR>
+<TR><TD>0,5</TD><TD>11</TD><TD>2,4</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD></TR>
+<TR><TD>0,75</TD><TD>15</TD><TD>3,3</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD></TR>
+<TR><TD>1,0</TD><TD>17</TD><TD>3,7</TD><TD>6,4</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>14</TD><TD>3,0</TD><TD>5,3</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD></TR>
+<TR><TD>1,5</TD><TD>23</TD><TD>5,0</TD><TD>8,7</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>15</TD><TD>3,3</TD><TD>5,7</TD><TD>&nbsp;</TD><TD>&nbsp;</TD><TD>&nbsp;</TD></TR>
+<TR><TD>2,0</TD><TD>26</TD><TD>5,7</TD><TD>9,8</TD><TD>21</TD><TD>4,6</TD><TD>7,9</TD><TD>19</TD><TD>4,1</TD><TD>7,2</TD><TD>14,0</TD><TD>3,0</TD><TD>5,3</TD></TR>
+<TR><TD>2,5</TD><TD>30</TD><TD>6,6</TD><TD>11,0</TD><TD>24</TD><TD>5,2</TD><TD>9,1</TD><TD>21</TD><TD>4,6</TD><TD>7,9</TD><TD>16,0</TD><TD>3,5</TD><TD>6,0</TD></TR>
+<TR><TD>4,0</TD><TD>41</TD><TD>9,0</TD><TD>15,0</TD><TD>32</TD><TD>7,0</TD><TD>12,0</TD><TD>27</TD><TD>5,9</TD><TD>10,0</TD><TD>21,0</TD><TD>4,6</TD><TD>7,9</TD></TR>
+<TR><TD>6,0</TD><TD>50</TD><TD>11,0</TD><TD>19,0</TD><TD>39</TD><TD>8,5</TD><TD>14,0</TD><TD>34</TD><TD>7,4</TD><TD>12,0</TD><TD>26,0</TD><TD>5,7</TD><TD>9,8</TD></TR>
+<TR><TD>10,0</TD><TD>80</TD><TD>17,0</TD><TD>30,0</TD><TD>60</TD><TD>13,0</TD><TD>22,0</TD><TD>50</TD><TD>11,0</TD><TD>19,0</TD><TD>38,0</TD><TD>8,3</TD><TD>14,0</TD></TR>
+<TR><TD>16,0</TD><TD>100</TD><TD>22,0</TD><TD>38,0</TD><TD>75</TD><TD>16,0</TD><TD>28,0</TD><TD>80</TD><TD>17,0</TD><TD>30,0</TD><TD>55,0</TD><TD>12,0</TD><TD>20,0</TD></TR><TR>
+<TD>25,0</TD><TD>140</TD><TD>30,0</TD><TD>53,0</TD><TD>105</TD><TD>23,0</TD><TD>39,0</TD><TD>100</TD><TD>22,0</TD><TD>38,0</TD><TD>65,0</TD><TD>14,0</TD><TD>24,0</TD></TR>
+<TR><TD>35,0 </TD><TD>170</TD><TD>37,0</TD><TD>64,0</TD><TD>130</TD><TD>28,0</TD><TD>49,0</TD><TD>135</TD><TD>29,0</TD><TD>51,0</TD><TD>75,0</TD><TD>16,0</TD><TD>28,0</TD></TR>
+</table>
+</div><!--#include virtual="/ssi/_content5.txt" --><!--#include virtual="/ssi/_content6.txt" --><!--#include virtual="/ssi/_content7.txt" --><!--#include virtual="/ssi/_content8.txt" -->
+ <!--#include virtual="/ssi/_footer1.txt" --><!--#include virtual="/ssi/_footer2.txt" --><!--#include virtual="/ssi/_footer3.txt" --><!--#include virtual="/ssi/_footer4.txt" --><!--#include virtual="/ssi/_footer5.txt" --><!--#include virtual="/ssi/_footer6.txt" -->

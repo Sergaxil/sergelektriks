@@ -1,0 +1,40 @@
+<!--#include virtual="/ssi/_meta1.txt" -->
+<!--#include virtual="/ssi/_meta2.txt" -->
+<!--#include virtual="/ssi/_meta3.txt" -->Карта сайта</title>
+<meta name="description" content="Электротехника,электрик, Карта сайта"/>
+<meta name="keywords" content="Карта сайта, Электрика"/>
+</head>
+<!--#include virtual="/ssi/_header1.txt" --><!--#include virtual="/ssi/_header2.txt" --><!--#include virtual="/ssi/_header3.txt" --><!--#include virtual="/ssi/_header4.txt" --><!--#include virtual="/ssi/_header5.txt" --><!--#include virtual="/ssi/_header6.txt" --><!--#include virtual="/ssi/_header7.txt" -->sitemap<!--#include virtual="/ssi/_header8.txt" -->Карта сайта<!--#include virtual="/ssi/_header9.txt" -->
+<!--#include virtual="/ssi/_header_end.txt" -->
+  <!--#include virtual="/ssi/_leftmenu1.txt" -->
+  <!--#include virtual="/ssi/_leftmenu2.txt" -->Домашний электрик<!--#include virtual="/ssi/_leftmenu3.txt" -->
+ <!--#include virtual="/ssi/_leftmenu4.txt" --> Основы электротехники<!--#include virtual="/ssi/_leftmenu5.txt" -->
+  <!--#include virtual="/ssi/_leftmenu6.txt" -->Ремонт мостовых кранов<!--#include virtual="/ssi/_leftmenu7.txt" -->
+  <!--#include virtual="/ssi/_leftmenu8.txt" -->В помощь цеховому электромонтеру<!--#include virtual="/ssi/_leftmenu9.txt" -->
+<!--#include virtual="/ssi/_leftmenu10.txt" --><!--#include virtual="/ssi/_leftmenu11.txt" -->
+<!--#include virtual="/ssi/_rightmenu1.txt" --><p>Этот сайт создан в помощь электромонтерам, а также для людей пытающихся понять азы этой профессии.<!--#include virtual="/ssi/_rightmenu2.txt" -->
+   <!--#include virtual="/ssi/_content1.txt" --><!--#include virtual="/ssi/_content2.txt" --><!--#include virtual="/ssi/_content3.txt" --><!--#include virtual="/ssi/_content4.txt" -->
+   <br>
+   <div align="center"><img src="/images/sitemap.jpg"></div>
+   <br><br>
+   <ul>
+<li><a href="/domashniy-elektrik/"</a>Домашний электрик</li>
+<li><a href="/osnovyi-elektrotehniki/"</a>Основы электротехники</li>
+<li><a href="/remont-mostovyih-kranov/"</a>Ремонт мостовых кранов</li>
+<li><a href="/tsehovoy-elektromonter/"</a>В помощь цеховому электромонтеру</li>
+<li><a href="/work/"</a>О Работе</li>
+<li><a href="/domashniy-elektrik/s_chego_nachat.shtml"</a>Домашний электрик - C чего начать</li>
+<li><a href="/domashniy-elektrik/kak_vyibirat_provod.shtml"</a>Домашний электрик - Как выбирать провод</li>
+<li><a href="/domashniy-elektrik/faza_v_svetilnike.shtml"</a>Домашний электрик - Фаза на светильнике</li>
+<li><a href="/osnovyi-elektrotehniki/vvedenie.shtml"</a>Основы электротехники - Введение</li>
+<li><a href="/osnovyi-elektrotehniki/zakon_oma.shtml"</a>Основы электротехники - Закон Ома</li>
+<li><a href="/osnovyi-elektrotehniki/zakon_kirhgofa.shtml"</a>Основы электротехники - Закон Кирхгофа</li>
+<li><a href="/remont-mostovyih-kranov/vvedenie.shtml"</a>Ремонт мостовых кранов - Введение</li>
+<li><a href="/remont-mostovyih-kranov/nulevaya_blokirovka.shtml"</a>Ремонт мостовых кранов - Нулевая блокировка</li>
+<li><a href="/remont-mostovyih-kranov/puskovyie_soprotivleniya.shtml"</a>Ремонт мостовых кранов - Пусковые сопротивления</li>
+<li><a href="/remont-mostovyih-kranov/pravilnoe_soedinenie_obmotok_dvigatelya.shtml"</a>Ремонт мостовых кранов - Правильное соединение обмоток двигателя</li>
+<li><a href="/tsehovoy-elektromonter/vvedenie.shtml"</a>В помощь цеховому электромонтеру - Введение</li>
+<li><a href="/tsehovoy-elektromonter/dvigatel_sborka_i_razborka.shtml"</a>В помощь цеховому электромонтеру - Сборка и разборка двигателя</li>
+<li><a href="/tsehovoy-elektromonter/shema_knopka_puskatel.shtml"</a>В помощь цеховому электромонтеру - Схема кнопка-пускатель</li>
+</ul><!--#include virtual="/ssi/_content5.txt" --><!--#include virtual="/ssi/_content8.txt" -->
+ <!--#include virtual="/ssi/_footer1.txt" --><!--#include virtual="/ssi/_footer2.txt" --><!--#include virtual="/ssi/_footer3.txt" --><!--#include virtual="/ssi/_footer4.txt" --><!--#include virtual="/ssi/_footer5.txt" --><!--#include virtual="/ssi/_footer6.txt" -->

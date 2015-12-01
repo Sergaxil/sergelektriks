@@ -1,0 +1,16 @@
+@media screen and (max-width: 766px) {
+	.mail-media{
+		float:left;
+		width: 48%;
+		margin: 1%;
+		position: relative;
+}
+.menu-media{
+	float: right;
+	width: 48%;
+	margin: 1%;
+position: relative;
+}
+#indicator{text-align: center;
+}
+}

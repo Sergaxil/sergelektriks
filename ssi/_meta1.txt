@@ -1,0 +1,3 @@
+<HTML>
+<head>
+<meta http-equiv="content-type" content="text/shtml;charset=windows-1251"/>
